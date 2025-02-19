@@ -1,0 +1,45 @@
+body{
+    background-color: #898676;
+
+}
+div{
+    background-color:  #767989;
+    width: 576px;
+    height: 129px;
+    margin: auto;
+
+    
+}
+.rundaboxar{
+
+/* width: 253px; */
+/* height: 86px; */
+
+
+display: flex;
+flex-direction: row;
+justify-content:space-around;
+align-items: center;
+border:#767989 solid 2px;
+
+
+}
+.MENUbox{
+    /* width: 253px;
+    height: 86px; */
+    border: solid 2px #767989;
+    margin-left: 10%;
+    margin-right: 20px;
+
+}
+h1{
+    display: flex;
+    align-items: center;
+    margin-left: 45%;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
